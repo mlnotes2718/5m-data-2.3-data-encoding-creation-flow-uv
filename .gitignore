@@ -9,3 +9,5 @@ data/*
 !data/userdata1.orc
 !data/file.orc
 !data/userdata1.parquet
+.venv
+
