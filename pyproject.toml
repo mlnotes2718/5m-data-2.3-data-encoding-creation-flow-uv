@@ -1,0 +1,15 @@
+[project]
+name = "5m-data-2-3-data-encoding-creation-flow-uv"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "cramjam>=2.11.0",
+    "fastavro>=1.12.1",
+    "grpcio-tools>=1.76.0",
+    "ipykernel>=7.1.0",
+    "pandas>=2.3.3",
+    "pyarrow>=23.0.0",
+    "thriftpy2>=0.5.3",
+]
